@@ -1,0 +1,8 @@
+prompts/*
+.venv/
+__pycache__/
+*.pyc
+.env
+agents_session.db
+agents_sessions.db*
+.DS_Store

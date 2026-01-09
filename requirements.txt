@@ -1,0 +1,10 @@
+python-dotenv
+requests
+pypdf
+gradio>=3.39.0
+watchdog
+sqlalchemy
+psycopg2-binary
+cachetools
+openai-agents==0.2.6
+openai-agents[litellm]
